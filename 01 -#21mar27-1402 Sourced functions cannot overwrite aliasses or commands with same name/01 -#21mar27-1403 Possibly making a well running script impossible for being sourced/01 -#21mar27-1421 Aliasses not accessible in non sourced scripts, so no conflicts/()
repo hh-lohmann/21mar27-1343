@@ -1,6 +1,0 @@
----
-Type: Node
-Order: 01
-ID: 21mar27-1421
-Title: Aliasses not accessible in non sourced scripts, so no conflicts
----

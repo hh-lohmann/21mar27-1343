@@ -1,0 +1,6 @@
+---
+Type: Node
+Order: 03
+ID: 21mar27-1603
+Title: DANGEROUS--- No error message, but uninteded action from alias instead of that from expected function if function is defined with 'function' keyword
+---

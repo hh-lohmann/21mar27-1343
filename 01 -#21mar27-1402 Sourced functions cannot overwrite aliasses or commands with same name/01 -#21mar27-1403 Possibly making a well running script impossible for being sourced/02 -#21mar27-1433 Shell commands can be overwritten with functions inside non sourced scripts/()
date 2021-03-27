@@ -1,6 +1,0 @@
----
-Type: Node
-Order: 02
-ID: 21mar27-1433
-Title: Shell commands can be overwritten with functions inside non sourced scripts
----
