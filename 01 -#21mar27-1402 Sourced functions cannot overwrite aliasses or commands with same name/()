@@ -1,0 +1,6 @@
+---
+Type: Node
+Order: 01
+ID: 21mar27-1402
+Title: Sourced functions cannot overwrite aliasses or commands with same name
+---

@@ -1,0 +1,6 @@
+---
+Type: Node
+Order: 01
+ID: 21mar27-1440
+Title: I.e. Bash interprets intended name of function to create as call of existing alias or command
+---
